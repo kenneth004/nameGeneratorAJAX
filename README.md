@@ -1,0 +1,2 @@
+# nameGeneratorAJAX
+nameGeneratorAJAX-Javascript-Project
